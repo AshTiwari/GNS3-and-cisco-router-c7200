@@ -12,13 +12,13 @@ Ping the router.
 
 There are three YouTube videos to help you through first two steps.
 
-The link to the first video:
-https://www.youtube.com/watch?v=kgE7B4UHkwA
+The link to the first video:<br>
+https://www.youtube.com/watch?v=kgE7B4UHkwA<br>
 (How to download GNS3 and c7200 cisco router on PC)
 
 
-The link to the second video:
-https://youtu.be/HF3Oh22Wxno
+The link to the second video:<br>
+https://youtu.be/HF3Oh22Wxno<br>
 (How to install GNS3 software | 2020 |)
 
 
