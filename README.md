@@ -29,3 +29,7 @@ https://youtu.be/8ak8XZ6ARLA<br>
 
 The link to the entire playlist:<bR>
 https://www.youtube.com/channel/UCAEgE6cjqqUFjvV4Jf5tBvA
+
+
+
+For the rest of the instructions follow the word file given.
