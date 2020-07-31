@@ -22,10 +22,10 @@ https://youtu.be/HF3Oh22Wxno<br>
 (How to install GNS3 software | 2020 |)
 
 
-The link to the third video:
-https://youtu.be/8ak8XZ6ARLA
+The link to the third video:<br>
+https://youtu.be/8ak8XZ6ARLA<br>
 (How to install c7200 router | 2020 |)
 
 
-The link to the entire playlist:
+The link to the entire playlist:<bR>
 https://www.youtube.com/channel/UCAEgE6cjqqUFjvV4Jf5tBvA
