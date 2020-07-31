@@ -3,12 +3,12 @@ This repository will walk you through the building of a network topology consist
 
 Steps:
 
-First download and install GNS3 software.
-Then, download and install c7200 router.
-Develope the topology  by dragging and dropping the deviecs and connecting them.
-Assign the IP address to all the devices.
-Broadcast the network of the routers. 
-Ping the router.
+-First download and install GNS3 software.
+-Then, download and install c7200 router.
+-Develope the topology  by dragging and dropping the deviecs and connecting them.
+-Assign the IP address to all the devices.
+-Broadcast the network of the routers. 
+-Ping the router.
 
 There are three YouTube videos to help you through first two steps.
 
