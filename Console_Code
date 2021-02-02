@@ -31,7 +31,7 @@ Repeat the process for:
   b.	e1/2
 
 
-<h>Verification</h>
+**Verification**
 Now, go to each console and do verification
 Type: 
 show ip interface brief
@@ -39,7 +39,7 @@ And check if each port is ‘UP’
 
 
 
-<h>Advertise networks</h>
+**Advertise networks**
 
 For R1:
 Go to R1 console
@@ -57,7 +57,7 @@ Repeat the process for:
 4.	R4: same as r1
 
 
-<h>Ping:</h>
+**Ping:**
 Ping from R1 to R2 e1/
 Go to r3 console:
 Type: 
