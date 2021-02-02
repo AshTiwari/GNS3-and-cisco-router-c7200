@@ -1,0 +1,66 @@
+<h>Assign IP</h>
+
+
+Open r1 console:
+
+For Port e1/0 
+type:
+configure terminal			         # to enter into configure mode
+interface ethernet 1/0                             # to involve port 1/0
+ip address 1.0.0.12 255.255.255.0       # ip address <ip> <subnet mask>
+no shutdown                                            # to keep port running
+exit
+	
+For port e1/1
+Type:
+interface ethernet 1/1                             # to involve port 1/1
+ip address 2.0.0.1 255.255.255.0       # ip address <ip> <subnet mask>
+no shutdown                                            # to keep port running
+
+Close the terminal.
+
+Repeat the process for:
+2.	Router R3
+  a.	e1/1
+  b.	e1/2
+3.	Router R2
+  a.	e1/0
+  b.	e1/3
+4.	Router R4
+  a.	e1/3
+  b.	e1/2
+
+
+<h>Verification</h>
+Now, go to each console and do verification
+Type: 
+show ip interface brief
+And check if each port is ‘UP’
+
+
+
+<h>Advertise networks</h>
+
+For R1:
+Go to R1 console
+Type:
+Configure terminal
+Router rip
+Version 2
+Network 1.0.0.0           #advertise network 1
+Network 2.0.0.0 	     		#advertise network 2
+
+
+Repeat the process for:
+2.	R2: same as r1
+3.	R3: same as r1
+4.	R4: same as r1
+
+
+<h>Ping:</h>
+Ping from R1 to R2 e1/
+Go to r3 console:
+Type: 
+ping 5.0.0.251 			#ping <ip add of receiver>
+Successful
+
